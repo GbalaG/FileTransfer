@@ -1,0 +1,17 @@
+D:\Learning\Problem Sloving\Problem Sloving\bin\Debug\net8.0\Problem Sloving.exe
+D:\Learning\Problem Sloving\Problem Sloving\bin\Debug\net8.0\Problem Sloving.deps.json
+D:\Learning\Problem Sloving\Problem Sloving\bin\Debug\net8.0\Problem Sloving.runtimeconfig.json
+D:\Learning\Problem Sloving\Problem Sloving\bin\Debug\net8.0\Problem Sloving.dll
+D:\Learning\Problem Sloving\Problem Sloving\bin\Debug\net8.0\Problem Sloving.pdb
+D:\Learning\Problem Sloving\Problem Sloving\bin\Debug\net8.0\Google.Protobuf.dll
+D:\Learning\Problem Sloving\Problem Sloving\obj\Debug\net8.0\Problem Sloving.csproj.AssemblyReference.cache
+D:\Learning\Problem Sloving\Problem Sloving\obj\Debug\net8.0\Problem Sloving.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\Problem Sloving\Problem Sloving\obj\Debug\net8.0\Problem Sloving.AssemblyInfoInputs.cache
+D:\Learning\Problem Sloving\Problem Sloving\obj\Debug\net8.0\Problem Sloving.AssemblyInfo.cs
+D:\Learning\Problem Sloving\Problem Sloving\obj\Debug\net8.0\Problem Sloving.csproj.CoreCompileInputs.cache
+D:\Learning\Problem Sloving\Problem Sloving\obj\Debug\net8.0\Problem .5775034C.Up2Date
+D:\Learning\Problem Sloving\Problem Sloving\obj\Debug\net8.0\Problem Sloving.dll
+D:\Learning\Problem Sloving\Problem Sloving\obj\Debug\net8.0\refint\Problem Sloving.dll
+D:\Learning\Problem Sloving\Problem Sloving\obj\Debug\net8.0\Problem Sloving.pdb
+D:\Learning\Problem Sloving\Problem Sloving\obj\Debug\net8.0\Problem Sloving.genruntimeconfig.cache
+D:\Learning\Problem Sloving\Problem Sloving\obj\Debug\net8.0\ref\Problem Sloving.dll

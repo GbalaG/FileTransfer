@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Problem Sloving/1.0.0": {
+        "dependencies": {
+          "Google.Protobuf": "3.28.1"
+        },
+        "runtime": {
+          "Problem Sloving.dll": {}
+        }
+      },
+      "Google.Protobuf/3.28.1": {
+        "runtime": {
+          "lib/net5.0/Google.Protobuf.dll": {
+            "assemblyVersion": "3.28.1.0",
+            "fileVersion": "3.28.1.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Problem Sloving/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Google.Protobuf/3.28.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-i4EN7Z+OUdoRBNiVMIG6CfMh6UowXiUx+BKgE+GHLbAX5ArSmpUTFUDwgRNwNfYdosl6GXuBlDiHCcXSHw43+A==",
+      "path": "google.protobuf/3.28.1",
+      "hashPath": "google.protobuf.3.28.1.nupkg.sha512"
+    }
+  }
+}
